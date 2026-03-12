@@ -15,15 +15,20 @@
 
 ## 🎬 Media Gallery
 
-### Screenshot
+### Screenshots
 
+![Overview](media/overview.png)
 ![Login screen](media/login%20screen.png)
+![Order placed](media/order_placed.png)
+![Invoice](media/invoice.png)
+![Admin overview](media/admin_overview.png)
+![Admin products](media/admin_products.png)
+![Admin rooms](media/admin_rooms.png)
 
 ### Videos
 
-<video src="media/cliente%20flow.mp4" controls preload="metadata" width="100%"></video>
-
-<video src="media/admin%20flow.mp4" controls preload="metadata" width="100%"></video>
+- [Client flow video](media/cliente%20flow.mp4)
+- [Admin flow video](media/admin%20flow.mp4)
 
 Welcome to the Hospital Santa Joana hospital management system repository! This project offers a comprehensive solution for patient management, meal orders, invoices, rooms, and much more, with a modern web frontend and robust backend.
 
